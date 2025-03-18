@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: urzeps56q-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/urzeps56q-java-springboot-gitops
